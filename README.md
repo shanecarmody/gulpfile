@@ -1,7 +1,7 @@
 # Template gulpfile.js
 
-`cd ~/project-folder`
-`npm install gulp -D`
-`touch gulpfile.js`
-`npm install gulp-sass --save-dev`
-`npm install gulp-webserver --save-dev`
+1. `cd ~/project-folder`
+2. `npm install gulp -D`
+3. `touch gulpfile.js`
+4. `npm install gulp-sass --save-dev` https://github.com/dlmanning/gulp-sass
+5. `npm install gulp-webserver --save-dev` https://github.com/schickling/gulp-webserver
